@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nocodya-hue.github.io/reformas-badajoz-sr/sitemap.xml
